@@ -10,4 +10,6 @@ The entire pipeline is described in the article’s material and methods.
 
 Files descriptions:
 
-#numerated list
+- com_16.Rmd - 16S data postprosessing after dada2 pipeline
+- com_bash.ipynb - some bash script  for processing ONT data
+- com_postprocessing.Rmd - processing annotation of ONT data in R
